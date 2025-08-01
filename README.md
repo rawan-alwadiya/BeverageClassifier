@@ -69,8 +69,7 @@ This project highlights how chemical analysis and classical ML methods can work 
 ---
 
 ## 📎 Project Links
-
-- 🔗 **GitHub**: [BeverageClassifier Repository](https://github.com/rawan-alwadiya/BeverageClassifier)  
+ 
 - 🔗 **Kaggle Notebook**: [BeverageClassifier on Kaggle](https://www.kaggle.com/code/rawanalwadeya/beverageclassifier-wine-prediction)  
 - 🔗 **Live Streamlit App**: [Try it Now](https://beverageclassifier-4yxpvngnibm8fp2n6xbnzr.streamlit.app/)
 
