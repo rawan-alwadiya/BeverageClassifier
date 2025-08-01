@@ -6,7 +6,7 @@ BeverageClassifier is a machine learning project that predicts wine types based 
 
 ## Demo
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch Demo Video on LinkedIn](https://www.linkedin.com/posts/rawan-alwadeya-17948a305_machinelearning-multiclassclassification-activity-7355470415466520578-8y09?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3YzG0BAZw48kimDDr_guvq8zXgSjDgk_I)
 
 ---
 
