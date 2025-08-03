@@ -19,13 +19,13 @@ BeverageClassifier uses a robust ML pipeline to categorize wines into three clas
 - Modeling with 7 classification algorithms
 - Deployment through a Streamlit web app
 
-After benchmarking, **Logistic Regression** was chosen for deployment due to its performance and interpretability.
+All models exhibited similarly high performance on the test set. **Logistic Regression** was ultimately selected for deployment due to its interpretability, computational efficiency, and suitability for lightweight applications.
 
 ### Performance Metrics (Logistic Regression)
 - **Accuracy**: 97.2%  
 - **Precision**: 97.8%  
-- **Recall**: 96.7%  
-- **F1 Score**: 97.1%
+- **Recall**: 97.9%  
+- **F1 Score**: 97.7%
 
 ---
 
@@ -33,7 +33,7 @@ After benchmarking, **Logistic Regression** was chosen for deployment due to its
 
 - **Exploration & Visualization**: Histograms, pairplots, scatter plots, etc.  
 - **Preprocessing**: Feature scaling using `StandardScaler`  
-- **Dimensionality Reduction**: PCA reduced 13 features to 9 principal components (94% variance retained)  
+- **Dimensionality Reduction**: PCA reduced 13 features to 2 principal components (56.2% variance retained)  
 - **Modeling Algorithms**:  
   - Logistic Regression  
   - Support Vector Machine (RBF)  
